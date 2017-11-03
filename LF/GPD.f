@@ -13,9 +13,6 @@ C      OVER IN THE CALLING PROGRAM
 C
 C  WRITTEN: T. HOBBS (OCT. 2014)
 C ***********************************************************************
-
-! Here is a change.
-
 	IMPLICIT NONE
 	INTEGER typ
 	REAL*8  Q2,x,kT,kT2,SInv,WF
